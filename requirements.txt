@@ -1,0 +1,5 @@
+tensorflow==2.13.0
+opencv-python
+gradio
+matplotlib
+scikit-image
