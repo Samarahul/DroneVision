@@ -1,6 +1,5 @@
 # DroneVision
- DroneVision is an AI-powered drone system for monitoring road construction. It uses U-Net for road segmentation, compares images over time, and calculates construction progress automatically. The tool offers fast, accurate reports and reduces the need for manual site visits.
-Here's a complete `README.md` file for your **DroneVision** project based on your presentation:
+ DroneVision is an AI-powered system for monitoring road construction projects. Using U-Net for road segmentation and high-resolution imagery, it tracks construction progress by comparing images over time. This system automates progress reporting, reducing the need for manual inspections and enhancing project efficiency.
 
 ---
 
